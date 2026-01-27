@@ -1,0 +1,40 @@
+============================================================
+RESULTADOS DEL BACKTEST
+============================================================
+
+Start                     2025-12-01 16:15:00
+End                       2025-12-03 03:22:00
+Duration                      1 days 11:07:00
+Exposure Time [%]                    28.22581
+Equity Final [$]                  10428.84482
+Equity Peak [$]                   10581.81801
+Commissions [$]                      48.60958
+Return [%]                            4.28845
+Buy & Hold Return [%]                10.74138
+Return (Ann.) [%]                  4338.44972
+Volatility (Ann.) [%]              2257.33089
+CAGR [%]                         138176.08963
+Sharpe Ratio                          1.92194
+Sortino Ratio                             inf
+Calmar Ratio                       2437.52115
+Alpha [%]                            -0.24217
+Beta                                  0.42179
+Max. Drawdown [%]                    -1.77986
+Avg. Drawdown [%]                    -0.42756
+Max. Drawdown Duration        0 days 15:14:00
+Avg. Drawdown Duration        0 days 01:43:00
+# Trades                                    4
+Win Rate [%]                             25.0
+Best Trade [%]                        5.55213
+Worst Trade [%]                      -0.76924
+Avg. Trade [%]                        1.02132
+Max. Trade Duration           0 days 06:53:00
+Avg. Trade Duration           0 days 02:28:00
+Profit Factor                         4.15843
+Expectancy [%]                        1.05425
+SQN                                   0.69635
+Kelly Criterion                       0.18883
+_strategy                 MLStrategy(trade...
+_equity_curve                             ...
+_trades                       Size  EntryB...
+dtype: object
